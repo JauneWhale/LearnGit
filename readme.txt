@@ -13,3 +13,4 @@ git log  : show the log of the commit
 git log --pretty=oneline : lon will show in oneline
 git reset --hard HEAD^/versionID : recover the version
 git relog: show the operation that you modified to the git ( which is convient to get your recover ID)
+git checkout -- xxx.txt : recover the workspace with template space file
