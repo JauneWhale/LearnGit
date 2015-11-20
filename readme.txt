@@ -2,6 +2,8 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git tracks changes.
 
+I still love ZhaoNan.
+
 git init : create a version managerment
 git add  : add a new file to the git
 git commit -m "XXX" : commit the modified transaction and name it
