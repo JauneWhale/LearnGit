@@ -18,7 +18,9 @@ git remote add origin git@github.com:JauneWhale/LearnGit.git
 git push -u origin master
 git push origin master
 git clone git@github.com:JauneWhale/gitSkills.git  : copy a project from github to my computer
-git checkout -b dev:
-	git branch dev
-	git checkout dev
-git branch : check the branch that you work for present
+git branch: check the branch
+git branch <name>: create a branch
+git checkout <name>: switch a branch
+git checkout -b <name>: create + switch
+git merge <name> : merge branch
+git branch -d <name> : delete branch
