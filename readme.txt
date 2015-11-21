@@ -25,3 +25,5 @@ git checkout <name>: switch a branch
 git checkout -b <name>: create + switch
 git merge <name> : merge branch
 git branch -d <name> : delete branch
+git log --graph --pretty=oneline --abbrev-commit : show the log of conflit in graph
+	git status can also see which file conflict
