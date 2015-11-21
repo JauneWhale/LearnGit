@@ -14,3 +14,7 @@ git log --pretty=oneline : lon will show in oneline
 git reset --hard HEAD^/versionID : recover the version
 git relog: show the operation that you modified to the git ( which is convient to get your recover ID)
 git checkout -- xxx.txt : recover the workspace with template space file
+git remote add origin git@github.com:JauneWhale/LearnGit.git
+git push -u origin master
+git push origin master
+git clone git@github.com:JauneWhale/gitSkills.git  : copy a project from github to my computer
